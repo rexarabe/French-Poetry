@@ -46,3 +46,4 @@ Toi, tu te noieras dans la fange
 Petit, petit.
 
 Victor Hugo, Les Chatiments(1855)
+Ecrit sur VIM chez GIT le 27 decembre 2019.
