@@ -1,0 +1,2 @@
+#Train with 
+https://www.shellscript.sh/loops.html
