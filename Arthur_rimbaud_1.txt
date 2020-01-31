@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 On n'est pas serieux, quand on a ddix-sept ans
                     I
 On n'est pas sérieux, quand on a dix-sept ans.
@@ -39,3 +40,47 @@ Ce soir-la ..., vous rentrez aux cafes eclatants,
 Vous demandez des bocks ou de la limonade ....
 On est pas serieux, quand on a dix-sept ans
 Et qu'on a des tilleuls verts sur la promenade.
+=======
+On n'est pas serieux, quand on a dix-sept ans
+|-------------------I---------------------------------|
+|On n'est pas sérieux, quand on a dix-sept ans.       |
+|Un beau soir, foin des bocks et de la limonade,      |
+|Des cafés tapageurs aux lustres éclatants!           |
+|On va sous les tilleuls verts de la promenade.       |
+|--------------------II-------------------------------|
+|les tilleuls sentent bon dans les bons soirs de juin!|
+|L'air est parfois si doux, qu'on ferme la paupière   |
+|Le vent chargé de bruits la ville n'est pas loin     |
+|A des parfums de vigne et des parfums de bière ...   |
+|---------------------III-----------------------------|
+|Voilà qu'on aperçoit un tout petit chiffon           |
+|D'azur sombre, encadré d'une petite branche,         |
+|Piqué d'une mauvaise étoile, qui se fond             |
+|Avec de doux frissons, petite et toute blanche...    |
+|-----------------------IV----------------------------|
+|Nuit de juin! Dix-sept ans! On se laisse griser.     |
+|La séve est du champagne et vois monte à la tête ... |
+|On divague, on se sent aux lèvres un baiser          |
+|Qui palpite là, comme une petite bête ...            |
+|-------------------------V---------------------------|
+|Le coeur fou robinsonne a travers les romans,        |
+|Lorsque, dans la clarte d'un pale reverbere,         |
+|Passe une demoiselle aux petits airs charmants,      |
+|Sous l'ombre du faux col effrayant de son pere ...   |
+|--------------------------VI-------------------------|
+|Et, comme elle vous trouve immensement naif,         |
+|Tout en faisant trotter ses petites bottines,        |
+|Elle se tourne, alerte et d'un mouvement vif ...     |
+|Sur vos levres alors meurent les cavatines...        |
+|-------------------------VII-------------------------|
+|Vous etes amoureux. Loue jusqu'au mois d'aout.       |
+|Vous etes amoureux. Vos sonnets La font rire.        |
+|Tous vos amis s'en vont, vous etes mauvais gout.     |
+|Puis l'adoree, un soir, a daigne vous ecrire ! ...   |
+|------------------------VIII-------------------------|
+|Ce soir-la ..., vous rentrez aux cafes eclatants,    |
+|Vous demandez des bocks ou de la limonade ....       |
+|On est pas serieux, quand on a dix-sept ans          |
+|Et qu'on a des tilleuls verts sur la promenade.      |
+|-----------------------------------------------------|
+>>>>>>> release-1.2
